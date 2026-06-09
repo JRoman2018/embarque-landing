@@ -86,7 +86,7 @@ const steps = [
 ];
 
 const benefits = [
-  "Más de 6,000 clientes satisfechos",
+  "Más de 10,000 clientes satisfechos",
   "Atención directa por WhatsApp",
   "Recogida y entrega puerta a puerta",
   "Envíos desde USA hacia RD",
