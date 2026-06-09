@@ -273,6 +273,7 @@ export default function LandingPage() {
               <video
                 ref={heroVideoRef}
                 className="embedded-video"
+                poster="/images/bg_video.png"
                 playsInline
                 controls
                 controlsList="nodownload noremoteplayback"
